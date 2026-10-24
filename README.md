@@ -1,1 +1,1 @@
-## Перед запуском а терминал ввести 'pip install playsound3'
+## Перед запуском в терминал ввести 'pip install playsound3'
